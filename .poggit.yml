@@ -5,4 +5,5 @@ branches:
 projects:
   CraftPermission:
     path: ""
+    icon: "icon.png"
 ...
